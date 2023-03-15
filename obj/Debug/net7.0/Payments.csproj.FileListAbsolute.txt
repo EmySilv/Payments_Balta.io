@@ -1,0 +1,15 @@
+E:\emydev\Payments\bin\Debug\net7.0\Payments.exe
+E:\emydev\Payments\bin\Debug\net7.0\Payments.deps.json
+E:\emydev\Payments\bin\Debug\net7.0\Payments.runtimeconfig.json
+E:\emydev\Payments\bin\Debug\net7.0\Payments.dll
+E:\emydev\Payments\bin\Debug\net7.0\Payments.pdb
+E:\emydev\Payments\obj\Debug\net7.0\Payments.csproj.AssemblyReference.cache
+E:\emydev\Payments\obj\Debug\net7.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+E:\emydev\Payments\obj\Debug\net7.0\Payments.AssemblyInfoInputs.cache
+E:\emydev\Payments\obj\Debug\net7.0\Payments.AssemblyInfo.cs
+E:\emydev\Payments\obj\Debug\net7.0\Payments.csproj.CoreCompileInputs.cache
+E:\emydev\Payments\obj\Debug\net7.0\Payments.dll
+E:\emydev\Payments\obj\Debug\net7.0\refint\Payments.dll
+E:\emydev\Payments\obj\Debug\net7.0\Payments.pdb
+E:\emydev\Payments\obj\Debug\net7.0\Payments.genruntimeconfig.cache
+E:\emydev\Payments\obj\Debug\net7.0\ref\Payments.dll
